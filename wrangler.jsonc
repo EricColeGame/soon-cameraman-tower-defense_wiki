@@ -1,0 +1,14 @@
+{
+  "name": "soon-cameraman-tower-defense-wiki",
+  "compatibility_date": "2024-09-01",
+  "workers_dev": false,
+  "assets": {
+    "directory": "./out"
+  },
+  "routes": [
+    {
+      "pattern": "soon-cameraman-tower-defense.wiki",
+      "custom_domain": true
+    }
+  ]
+}
