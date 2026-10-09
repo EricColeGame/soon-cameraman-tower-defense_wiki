@@ -25,7 +25,7 @@ export const siteConfig: SiteConfig = {
   tagline: "Complete Guides, Codes, Units & Tier Lists",
   description: "Your ultimate guide to Soon Cameraman Tower Defense on Roblox! Explore active working codes, unit guides, best upgrades, wave strategies, and progression guides.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://soon-cameraman-tower-defense.wiki",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://soon-cameraman-tower-defense.wiki").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@soon-cameraman-tower-defense.wiki",
   gameUrl: "https://www.roblox.com/games/132929771812494/Cameraman-Tower-Defense",
   heroVideoId: "Sv4SgTBFMWU",
   social: {
