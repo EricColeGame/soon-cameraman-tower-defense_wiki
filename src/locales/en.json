@@ -34,27 +34,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Soon Cameraman Tower Defense Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Master wave defense, early unit placement, and cash management across initial stages."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Unit Tier List",
+          "description": "Identify top-performing Cameraman units and build an optimal loadout for hard waves."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Fastest Leveling & XP",
+          "description": "Learn the most efficient solo farming routes to unlock advanced unit slots quickly."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Redeem Active Codes",
+          "description": "Claim free coins, gems, and exclusive boosts using latest community promo codes."
         }
       ]
     },
@@ -62,78 +62,78 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Unit Tier List",
+        "Active Codes",
+        "Endless Mode"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need from your first match to mastering unit placements and economy.",
+          "href": "/guide/soon-cameraman-tower-defense-beginner-guide"
         },
         {
           "badge": "Updated",
           "title": "Active Codes",
           "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "href": "/codes/soon-cameraman-tower-defense-codes"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Meta",
+          "title": "Unit Tier List",
+          "description": "Complete meta rankings comparing S-tier titans down to baseline starter scouts.",
+          "href": "/items/soon-cameraman-tower-defense-unit-tier-list"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Units",
+          "title": "Upgraded Titan Cameraman",
+          "description": "Detailed stats, railgun range, and upgrade costs for the top frontline heavy unit.",
+          "href": "/characters/soon-cameraman-tower-defense-upgraded-titan-cameraman"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Guide",
+          "title": "Noob to Pro Strategy",
+          "description": "Essential tips and tactical positioning to transition from casual runs to pro clears.",
+          "href": "/guide/soon-cameraman-tower-defense-noob-to-pro"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "badge": "Modes",
+          "title": "Endless Mode Guide",
+          "description": "Survive infinite scaling waves with high-DPS choke strategies and buffer synergy.",
+          "href": "/mechanics/soon-cameraman-tower-defense-endless-mode"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "Guide",
+          "title": "Solo Clear Strategy",
+          "description": "Reliable single-player compositions and economy pacing without needing team carried.",
+          "href": "/guide/soon-cameraman-tower-defense-solo-guide"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "badge": "Units",
+          "title": "Best Units Meta",
+          "description": "Top unit evaluations, summon priorities, and upgrade milestones for all stages.",
+          "href": "/items/soon-cameraman-tower-defense-best-units"
         },
         {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Updates",
+          "title": "Upcoming Roadmap & Leaks",
+          "description": "Preview upcoming game mechanics, teased characters, and progression systems.",
+          "href": "/progression/soon-cameraman-tower-defense-roadmap"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Soon Cameraman Tower Defense?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Soon Cameraman Tower Defense is an action strategy tower defense game on Roblox inspired by the viral Cameraman and Skibidi universe. Players collect and deploy specialized hardware defenders, ranging from agile Camera Scouts and Laser Gunners to colossal Titan Cameramen, positioning them along winding maps to eliminate relentless waves of mechanized enemies.",
+        "Mastering the battlefield demands precise cash management, strategic placement at track chokepoints, and disciplined upgrade timing. Whether testing tactical team loadouts in Insane Mode, pushing endurance limits in Endless Mode, or trading rare units with friends in community hubs, Soon Cameraman Tower Defense delivers deep, replayable strategic gameplay."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Roblox Community"
         },
         {
           "label": "Platform",
@@ -141,158 +141,225 @@
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Tower Defense"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Modes",
+          "value": "Endless & Insane"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Playable Units",
+          "value": "15+ Units"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Strategy",
+          "value": "Wave Survival"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Frequency",
+          "value": "Regular Updates"
         }
       ],
-      "cta": "Explore All Guides"
+      "cta": "Read Beginner Guide"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Soon Cameraman Tower Defense Wiki",
+      "description": "Master your tower defense strategy on Roblox with essential progression guides, active codes, complete unit tier lists, and optimal upgrade strategies.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Soon Cameraman Tower Defense Codes",
+          "description": "This module collects active redeem codes, expired codes, and available rewards such as coins, gems, or exclusive items. It targets players searching for free rewards and code updates after new patches or events.",
+          "href": "/codes/soon-cameraman-tower-defense-codes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "RELEASE",
+              "detail": "Redeem for 500 Coins and Starter Boosts",
+              "badge": "Active"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "CAMERAMAN",
+              "detail": "Redeem for 250 Gems and Summon Tickets",
+              "badge": "Active"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "DEFENSE50K",
+              "detail": "Redeem for Free Coin Crate and Luck Potion",
+              "badge": "Active"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Soon Cameraman Tower Defense Beginners Guide",
+          "description": "A starter guide explaining basic gameplay, tower placement, wave survival, upgrades, and progression paths for new players. It helps beginners understand the core tower defense loop and early strategies.",
+          "href": "/guide/soon-cameraman-tower-defense-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Deploy low-cost Camera Scouts near early choke corners to eliminate swift opening runners."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Maintain minimal lethal track defense while funneling spare cash into income generators."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Place slowing support towers and splash damage units at intersecting roadway bends."
+            },
+            {
+              "label": "4",
+              "detail": "Save capital for Titan heavy boss killers before challenging armor waves arrive."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
+          "name": "Soon Cameraman Tower Defense Units Tier List",
+          "description": "A ranking module comparing Cameraman units and other defensive units based on damage, utility, upgrade value, and late-game performance. It helps players decide which units are worth upgrading and using.",
+          "href": "/items/soon-cameraman-tower-defense-unit-tier-list",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Upgraded Titan Cameraman & Scientist Cameraman provide supreme DPS and economy."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Ninja Cameraman & Mech Cameraman deliver fast attack speed and reliable AoE swarm clears."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Large Cameraman offers heavy blunt knockback and reliable mid-game crowd control."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Basic Cameraman serves as an affordable wave-one starter before being replaced."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Soon Cameraman Tower Defense Units Guide",
+          "description": "This module provides detailed information about available units, including abilities, upgrade paths, roles, and recommended usage scenarios. It targets searches about specific cameraman units and how to build teams.",
+          "href": "/items/soon-cameraman-tower-defense-units",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Titans",
+              "detail": "Colossal frontline heavy hitters boasting dual railguns and immense area blast damage."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Support",
+              "detail": "Buffer units that decelerate hostile creeps and multiply adjacent squad attack speed."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Economy",
+              "detail": "Income producers that generate reliable cash each wave to fund high-cost unit upgrades."
+            },
+            {
+              "label": "Splash",
+              "detail": "Broadcasters and grenade units capable of wiping dense enemy hordes efficiently."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Soon Cameraman Tower Defense Update Guide",
+          "description": "A news and update tracker covering new content, balance changes, events, and feature releases. It helps returning players quickly understand what changed after each update.",
+          "href": "/mechanics/soon-cameraman-tower-defense-update",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "v1.2.0",
+              "detail": "Introduced Insane Mode stages with enhanced boss immunities and bonus loot.",
+              "badge": "New"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "v1.1.5",
+              "detail": "Buffed single-target damage of Laser Cameraman and reduced early upgrade costs.",
+              "badge": "Balance"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "v1.1.0",
+              "detail": "Added Scientist Cameraman economy perks and new summon banner rotation.",
+              "badge": "Roster"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Soon Cameraman Tower Defense Maps Guide",
+          "description": "A map strategy section covering available stages, difficulty information, enemy patterns, and recommended team setups. It helps players searching for map clears and wave strategies.",
+          "href": "/mechanics/soon-cameraman-tower-defense-modes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Standard",
+              "detail": "Ideal testing grounds with single-lane routes and predictable pacing for new squads.",
+              "badge": "Normal"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Hardcore",
+              "detail": "Features split corridors and reduced kill income requiring disciplined economy play.",
+              "badge": "Hard"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Endless",
+              "detail": "Infinite scaling enemy waves designed to push high-DPS choke defenses to their limit.",
+              "badge": "Endless"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Soon Cameraman Tower Defense Strategies",
+          "description": "A strategy collection covering farming methods, upgrade priorities, team combinations, and ways to survive difficult waves. It targets players looking for advanced gameplay tips.",
+          "href": "/guide/soon-cameraman-tower-defense-tips-and-tricks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Choke",
+              "detail": "Cluster overlapping sightlines at sharp corners so single-target towers melt lead targets."
+            },
+            {
+              "label": "Economy",
+              "detail": "Maximize passive money producers across waves 3 through 12 to fund late-stage Titans."
+            },
+            {
+              "label": "Targeting",
+              "detail": "Toggle boss killers to Strongest and high-speed snipers to First to stop leak runners."
+            },
+            {
+              "label": "Upgrades",
+              "detail": "Focus coins on hitting critical breakpoint tiers instead of evenly spreading low levels."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Soon Cameraman Tower Defense Gameplay Videos",
+          "description": "This module showcases official or community gameplay videos that demonstrate mechanics, updates, and unit showcases. It provides visual references for players who prefer learning through videos.",
+          "href": "/community/soon-cameraman-tower-defense-community",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Showcase",
+              "detail": "Watch Upgraded Titan Cameraman gameplay demos highlighting max tier DPS bursts."
+            },
+            {
+              "label": "SoloRun",
+              "detail": "Step-by-step video breakdowns illustrating flawless solo map clears on hard difficulties."
+            },
+            {
+              "label": "TierRank",
+              "detail": "Visual unit tier list breakdowns comparing attack speed, damage radius, and coin cost."
+            },
+            {
+              "label": "Endless",
+              "detail": "High-wave endurance streams demonstrating optimal late-game support aura overlaps."
             }
           ]
         }
@@ -300,27 +367,27 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "description": "Quick answers to the most common questions about Soon Cameraman Tower Defense.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Soon Cameraman Tower Defense?",
+          "answer": "Soon Cameraman Tower Defense is a free-to-play Roblox strategy game where commanders assemble teams of camera-headed fighters, position towers at strategic track chokepoints, and repel waves of mechanized adversaries across multiple difficulty modes."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do I redeem Soon Cameraman Tower Defense codes?",
+          "answer": "Launch Soon Cameraman Tower Defense on Roblox, open the lobby interface, click on the Codes or Rewards icon, enter your valid promotional code into the dialogue box, and claim your free coins, gems, and booster items."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "What are the best units in Soon Cameraman Tower Defense?",
+          "answer": "Top-performing units in Soon Cameraman Tower Defense include the Upgraded Titan Cameraman for devastating frontline area-of-effect damage, Scientist Cameraman for wave income generation, and Ninja Cameraman for rapid early-game swarm clearing."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How can I survive higher waves in Soon Cameraman Tower Defense?",
+          "answer": "To survive difficult waves in Soon Cameraman Tower Defense, prioritize establishing income units within early rounds, position slowing support towers at key track hairpin bends, and upgrade heavy Titan units before high-health boss waves arrive."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Does Soon Cameraman Tower Defense have endless or multiplayer modes?",
+          "answer": "Yes, Soon Cameraman Tower Defense features cooperative team play, solo challenge formats, and an Endless Mode where squads test defensive synergies against infinitely scaling enemy waves for leaderboard rankings."
         }
       ]
     },
