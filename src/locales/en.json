@@ -6,7 +6,18 @@
     "description": "Your ultimate guide to Soon Cameraman Tower Defense on Roblox! Explore active codes, unit guides, best upgrades, wave strategies, and progression guides.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "toggleTheme": "Toggle Theme",
+    "guide": "Guide",
+    "characters": "Characters",
+    "items": "Items",
+    "mechanics": "Mechanics",
+    "progression": "Progression",
+    "codes": "Codes",
+    "community": "Community"
+  },
   "home": {
     "meta": {
       "title": "Soon Cameraman Tower Defense Wiki - Codes, Units & Guides",
@@ -426,12 +437,42 @@
     "playGame": "Play Soon Cameraman Tower Defense",
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "Unit Planner",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "characters": "Characters",
+    "items": "Units & Items",
+    "mechanics": "Mechanics",
+    "codes": "Codes",
+    "community": "Community",
+    "progression": "Progression"
+  },
+  "guide": {
+    "overviewTitle": "Soon Cameraman Tower Defense Guides",
+    "overviewDescription": "Master wave defense, beginner strategies, insane mode clears, and optimal unit placement for Soon Cameraman Tower Defense."
+  },
+  "characters": {
+    "overviewTitle": "Soon Cameraman Tower Defense Characters",
+    "overviewDescription": "Complete database of camera units, including Titan Cameraman, Upgraded Titan, and support units with full stats and abilities."
+  },
+  "items": {
+    "overviewTitle": "Soon Cameraman Tower Defense Items & Units",
+    "overviewDescription": "Detailed breakdown of summon rarities, unit tier rankings, loadout synergies, and value trading in Soon Cameraman Tower Defense."
+  },
+  "mechanics": {
+    "overviewTitle": "Soon Cameraman Tower Defense Mechanics",
+    "overviewDescription": "Deep dive into wave scaling, endless mode difficulty, damage modifiers, buff mechanics, and gameplay systems."
+  },
+  "progression": {
+    "overviewTitle": "Soon Cameraman Tower Defense Progression",
+    "overviewDescription": "Track unit unlock requirements, level milestones, upcoming balance updates, and roadmap features in Soon Cameraman Tower Defense."
+  },
+  "codes": {
+    "overviewTitle": "Soon Cameraman Tower Defense Codes",
+    "overviewDescription": "All active redemption codes, expired code archive, reward instructions, and free coin drops for Soon Cameraman Tower Defense."
+  },
+  "community": {
+    "overviewTitle": "Soon Cameraman Tower Defense Community",
+    "overviewDescription": "Connect with players via the official Discord, subreddit forums, trading channels, and community wikis for Soon Cameraman Tower Defense."
   }
 }
