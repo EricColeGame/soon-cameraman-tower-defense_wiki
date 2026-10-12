@@ -1,1 +1,488 @@
-{}
+{
+  "site": {
+    "name": "Soon Cameraman Tower Defense Wiki",
+    "shortName": "Soon Cameraman TD",
+    "tagline": "Guias Completos, Códigos, Unidades e Tier Lists",
+    "description": "Seu guia definitivo para Soon Cameraman Tower Defense no Roblox! Explore códigos ativos, guias de unidades, melhores upgrades, estratégias de ondas e guias de progressão.",
+    "legalNotice": "Wiki de fãs não oficial. Feita por jogadores, para jogadores."
+  },
+  "nav": {
+    "guide": "Guia",
+    "characters": "Personagens",
+    "items": "Itens",
+    "mechanics": "Mecânicas",
+    "progression": "Progressão",
+    "codes": "Códigos",
+    "community": "Comunidade",
+    "menu": "Menu",
+    "toggleTheme": "Alternar tema"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki do Soon Cameraman Tower Defense - Códigos, Unidades e Guias",
+      "description": "A Wiki do Soon Cameraman Tower Defense traz códigos do Roblox, guias de unidades, dicas de gameplay, atualizações e estratégias para ajudar os jogadores a montar defesas mais fortes."
+    },
+    "hero": {
+      "eyebrow": "Jogo de Estratégia Tower Defense no Roblox",
+      "title": "Soon Cameraman Tower Defense Wiki",
+      "description": "Soon Cameraman Tower Defense é um jogo de estratégia do Roblox em que os jogadores coletam unidades cameraman, montam equipes defensivas, evoluem torres e enfrentam ondas de inimigos.",
+      "stats": [
+        "Plataforma: Roblox",
+        "Gênero: Tower Defense",
+        "Unidades: Colecione e Evolua",
+        "Códigos Ativos: N/D"
+      ],
+      "primaryCta": "Guia para Iniciantes",
+      "secondaryCta": "Tier List de Unidades",
+      "tertiaryCta": "Códigos Ativos",
+      "videoLabel": "Mídia Oficial"
+    },
+    "updates": {
+      "title": "Últimas Atualizações",
+      "browse": "Ver Todos os Guias",
+      "viewAll": "Ver Tudo"
+    },
+    "start": {
+      "eyebrow": "Comece Aqui",
+      "title": "Sua Jornada em Soon Cameraman Tower Defense",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para Iniciantes",
+          "description": "Aprenda o ciclo central de defesa de ondas, o posicionamento inicial de unidades, o posicionamento em pontos de estrangulamento e o gerenciamento de dinheiro antes da sua primeira partida difícil."
+        },
+        {
+          "number": "2",
+          "title": "Tier List das Melhores Unidades",
+          "description": "Compare todos os arquétipos de cameraman, dos matadores de chefes Titan de tier S até os baratos iniciais de primeira onda, para saber quem invocar primeiro."
+        },
+        {
+          "number": "3",
+          "title": "Evolua e Desbloqueie Unidades",
+          "description": "Planeje seu caminho de progressão, alcance pontos de upgrade eficientes e desbloqueie os defensores de elite necessários para as ondas do fim de jogo."
+        },
+        {
+          "number": "4",
+          "title": "Resgatar Códigos",
+          "description": "Siga a rotina de resgate no jogo e descubra quais categorias de recompensa, de gemas a poções de sorte, vale a pena priorizar."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas Populares",
+      "title": "Em Alta",
+      "quickLinks": [
+        "Guia para Iniciantes",
+        "Tier List de Unidades",
+        "Códigos Ativos",
+        "Modo Infinito"
+      ],
+      "cards": [
+        {
+          "badge": "Iniciante",
+          "title": "Guia para Iniciantes",
+          "description": "Tudo o que você precisa da primeira partida até dominar o posicionamento de unidades e a economia.",
+          "href": "/guide/soon-cameraman-tower-defense-beginner-guide"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Códigos Ativos",
+          "description": "Todos os códigos funcionais com recompensas — resgate antes que expirem.",
+          "href": "/codes/soon-cameraman-tower-defense-codes"
+        },
+        {
+          "badge": "Meta",
+          "title": "Tier List de Unidades",
+          "description": "Rankings completos do meta comparando os titãs de tier S até os batedores iniciais básicos.",
+          "href": "/items/soon-cameraman-tower-defense-unit-tier-list"
+        },
+        {
+          "badge": "Unidades",
+          "title": "Upgraded Titan Cameraman",
+          "description": "Atributos detalhados, alcance do railgun e custos de upgrade da principal unidade pesada de linha de frente.",
+          "href": "/characters/soon-cameraman-tower-defense-upgraded-titan-cameraman"
+        },
+        {
+          "badge": "Guia",
+          "title": "Estratégia de Novato a Pro",
+          "description": "Dicas essenciais e posicionamento tático para sair das partidas casuais e chegar às vitórias de pro.",
+          "href": "/guide/soon-cameraman-tower-defense-noob-to-pro"
+        },
+        {
+          "badge": "Modos",
+          "title": "Guia do Modo Infinito",
+          "description": "Sobreviva a ondas infinitas com estratégias de estrangulamento de alto DPS e sinergia de buffers.",
+          "href": "/mechanics/soon-cameraman-tower-defense-endless-mode"
+        },
+        {
+          "badge": "Guia",
+          "title": "Estratégia de Vitória Solo",
+          "description": "Composições confiáveis para um jogador e ritmo de economia sem precisar ser carregado pelo time.",
+          "href": "/guide/soon-cameraman-tower-defense-solo-guide"
+        },
+        {
+          "badge": "Unidades",
+          "title": "Meta das Melhores Unidades",
+          "description": "Avaliações das melhores unidades, prioridades de invocação e marcos de upgrade para todas as fases.",
+          "href": "/items/soon-cameraman-tower-defense-best-units"
+        },
+        {
+          "badge": "Atualizações",
+          "title": "Roadmap Futuro e Vazamentos",
+          "description": "Prévia de mecânicas futuras, personagens revelados e sistemas de progressão.",
+          "href": "/progression/soon-cameraman-tower-defense-roadmap"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "O que é Soon Cameraman Tower Defense?",
+      "paragraphs": [
+        "Soon Cameraman Tower Defense é um jogo de estratégia do Roblox construído em torno de defensores com cabeça de câmera. Os jogadores posicionam unidades cameraman especializadas ao longo de caminhos sinuosos de inimigos, combinando batedores baratos de linha de frente, locutores de dano em área, auras de suporte que reduzem velocidade e colossais Titan Cameramen para deter cada onda antes que ela alcance a base.",
+        "O progresso depende tanto da disciplina econômica quanto do poder de fogo bruto. O dinheiro ganho com os inimigos derrotados e os bônus de onda precisa ser dividido entre defesa inicial e geração de renda, enquanto o posicionamento das unidades nas curvas e pontos de estrangulamento do caminho decide por quanto tempo cada torre continua atirando. De vitórias solo e equipes cooperativas aos modos Insane e Infinito, o jogo recompensa quem planeja os upgrades em vez de construir demais logo no começo."
+      ],
+      "stats": [
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Gênero",
+          "value": "Tower Defense"
+        },
+        {
+          "label": "Plantel",
+          "value": "Colecione e Evolua"
+        },
+        {
+          "label": "Modos",
+          "value": "Insane e Infinito"
+        },
+        {
+          "label": "Tiers de Unidades",
+          "value": "Classificados de S a C"
+        },
+        {
+          "label": "Ciclo Central",
+          "value": "Sobrevivência a Ondas"
+        },
+        {
+          "label": "Atualizações",
+          "value": "Patches Regulares"
+        }
+      ],
+      "cta": "Ler o Guia para Iniciantes"
+    },
+    "explore": {
+      "title": "Explore a Wiki do Soon Cameraman Tower Defense",
+      "description": "Domine sua estratégia de tower defense no Roblox com guias de progressão essenciais, códigos ativos, tier lists completas de unidades e estratégias ideais de upgrade.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Códigos de Soon Cameraman Tower Defense",
+          "description": "Este módulo reúne códigos de resgate ativos, códigos expirados e recompensas disponíveis, como moedas, gemas ou itens exclusivos. Ele atende jogadores que buscam recompensas grátis e atualizações de códigos após novos patches ou eventos.",
+          "href": "/codes/soon-cameraman-tower-defense-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Gemas",
+              "detail": "Moeda premium de invocação usada para obter unidades cameraman de alta raridade em banners limitados.",
+              "badge": "Melhor Escolha"
+            },
+            {
+              "label": "Moedas",
+              "detail": "Moeda padrão das fases para posicionar unidades e evoluir os cameramen iniciais.",
+              "badge": "Comum"
+            },
+            {
+              "label": "Poção de Sorte",
+              "detail": "Aumento temporário de taxa do banner que eleva as chances de invocações míticas em sessões de invocação múltipla.",
+              "badge": "Taxa Aumentada"
+            },
+            {
+              "label": "Reroll",
+              "detail": "Tokens de reroll de traço que sorteiam novamente os modificadores passivos dos defensores de alto nível.",
+              "badge": "Fim de Jogo"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guia para Iniciantes de Soon Cameraman Tower Defense",
+          "description": "Um guia inicial que explica o gameplay básico, o posicionamento de torres, a sobrevivência a ondas, os upgrades e os caminhos de progressão para novos jogadores. Ajuda os iniciantes a entender o ciclo central de tower defense e as estratégias iniciais.",
+          "href": "/guide/soon-cameraman-tower-defense-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Posicione Camera Scouts baratos no ponto de estrangulamento da entrada para eliminar os primeiros corredores velozes."
+            },
+            {
+              "label": "2",
+              "detail": "Mantenha apenas o dano letal no caminho e direcione o dinheiro excedente para unidades de renda até a terceira onda."
+            },
+            {
+              "label": "3",
+              "detail": "Ancore o dano em área e o suporte de redução de velocidade nas curvas internas em U para ampliar as janelas de tiro."
+            },
+            {
+              "label": "4",
+              "detail": "Guarde moedas para os upgrades pesados de Titan antes que as ondas de chefes blindados cheguem ao portão da base."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Tier List de Unidades de Soon Cameraman Tower Defense",
+          "description": "Um módulo de ranking que compara unidades Cameraman e outras unidades defensivas com base em dano, utilidade, valor de upgrade e desempenho no fim de jogo. Ajuda os jogadores a decidir quais unidades vale a pena evoluir e usar.",
+          "href": "/items/soon-cameraman-tower-defense-unit-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Upgraded Titan Cameraman ancora a defesa pesada de linha de frente, enquanto Scientist Cameraman financia cada upgrade com renda passiva das ondas."
+            },
+            {
+              "label": "A",
+              "detail": "Ninja Cameraman corta ondas de corredores velozes e Mech Cameraman adiciona dano em área confiável por um custo justo de moedas."
+            },
+            {
+              "label": "B",
+              "detail": "Large Cameraman traz repulsão bruta no início e Camera Helicopter cobre mapas abertos com dano móvel contínuo."
+            },
+            {
+              "label": "C",
+              "detail": "Basic Cameraman é um inicial barato para a primeira onda e Car Cameraman troca o custo alto por um único golpe explosivo."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guia de Unidades de Soon Cameraman Tower Defense",
+          "description": "Este módulo fornece informações detalhadas sobre as unidades disponíveis, incluindo habilidades, caminhos de upgrade, funções e cenários de uso recomendados. Ele atende buscas sobre unidades cameraman específicas e como montar equipes.",
+          "href": "/items/soon-cameraman-tower-defense-units",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Titãs",
+              "detail": "Matadores de chefes colossais de linha de frente, como Upgraded Titan Cameraman, com dano em área em cone amplo."
+            },
+            {
+              "label": "Suporte",
+              "detail": "Auras de redução de velocidade e unidades de atordoamento que seguram corredores velozes dentro da sua zona de dano nas curvas do caminho."
+            },
+            {
+              "label": "Economia",
+              "detail": "Scientist Cameraman e unidades de farm que transformam as ondas iniciais em uma curva de dinheiro crescente."
+            },
+            {
+              "label": "Área",
+              "detail": "Unidades locutoras e mechs que varrem enxames aglomerados de inimigos em interseções sobrepostas."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guia de Atualizações de Soon Cameraman Tower Defense",
+          "description": "Um rastreador de notícias e atualizações que cobre novo conteúdo, mudanças de balanceamento, eventos e lançamentos de recursos. Ajuda jogadores que retornam a entender rapidamente o que mudou após cada atualização.",
+          "href": "/mechanics/soon-cameraman-tower-defense-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Plantel",
+              "detail": "Patches de balanceamento mudam regularmente quais arquétipos de cameraman ficam no topo da tier list."
+            },
+            {
+              "label": "Economia",
+              "detail": "As notas de atualização costumam ajustar recompensas por abate, dividendos de onda e curvas de preço dos upgrades."
+            },
+            {
+              "label": "Mapas",
+              "detail": "Novos mapas trazem layouts de pistas, pontos de estrangulamento e modificadores de dificuldade inéditos para aprender."
+            },
+            {
+              "label": "Prévia",
+              "detail": "Dev logs dos desenvolvedores e prévias da comunidade mostram unidades futuras antes do lançamento."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guia de Mapas de Soon Cameraman Tower Defense",
+          "description": "Uma seção de estratégia de mapas que cobre as fases disponíveis, informações de dificuldade, padrões de inimigos e composições de equipe recomendadas. Ajuda jogadores que buscam vitórias em mapas e estratégias de ondas.",
+          "href": "/mechanics/soon-cameraman-tower-defense-modes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Padrão",
+              "detail": "Mapas básicos da campanha com rotas de pista única e renda total por abate para equipes novas.",
+              "badge": "Iniciante"
+            },
+            {
+              "label": "Hardcore",
+              "detail": "Fases estilo pesadelo com pistas divididas, elites blindadas e renda por abate reduzida.",
+              "badge": "Especialista"
+            },
+            {
+              "label": "Infinito",
+              "detail": "Ondas infinitas que recompensam defesas de estrangulamento com alto DPS e um jogo econômico forte.",
+              "badge": "Infinito"
+            },
+            {
+              "label": "Corrida de Chefes",
+              "detail": "Mega-chefes sequenciais com dinheiro inicial alto e sem quedas de recursos no meio da onda.",
+              "badge": "Raid"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Estratégias de Soon Cameraman Tower Defense",
+          "description": "Uma coleção de estratégias que cobre métodos de farm, prioridades de upgrade, combinações de equipe e formas de sobreviver a ondas difíceis. Destina-se a jogadores que buscam dicas avançadas de gameplay.",
+          "href": "/guide/soon-cameraman-tower-defense-tips-and-tricks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Estrangulamento",
+              "detail": "Empilhe cobertura sobreposta nas curvas internas em U para maximizar o tempo de contato com o alvo."
+            },
+            {
+              "label": "Economia",
+              "detail": "Mantenha apenas o dano letal no caminho no início e direcione o dinheiro excedente para escalar a renda até a onda 15."
+            },
+            {
+              "label": "Alvo",
+              "detail": "Defina os matadores de chefes como Strongest e os snipers rápidos como First para evitar o vazamento de corredores."
+            },
+            {
+              "label": "Upgrades",
+              "detail": "Compre pontos de upgrade que elevam o DPS em vez de espalhar níveis entre torres fracas."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Vídeos de Gameplay de Soon Cameraman Tower Defense",
+          "description": "Este módulo mostra vídeos de gameplay oficiais ou da comunidade que demonstram mecânicas, atualizações e vitrines de unidades. Ele fornece referências visuais para jogadores que preferem aprender por vídeos.",
+          "href": "/community/soon-cameraman-tower-defense-community",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Solo",
+              "detail": "Análises de vitórias solo mostrando o ritmo da economia e os loadouts para partidas no modo difícil."
+            },
+            {
+              "label": "Tiers",
+              "detail": "Análises da tier list de unidades comparando os titãs de tier S com escolhas iniciais econômicas."
+            },
+            {
+              "label": "Infinito",
+              "detail": "Partidas no modo Infinito demonstrando auras de suporte do fim de jogo e sobreposição de dano em área."
+            },
+            {
+              "label": "Modos",
+              "detail": "Gravações dos modos Insane e difícil cobrindo counters de chefes e posicionamento em pontos de estrangulamento."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "description": "Respostas rápidas para as perguntas mais comuns sobre Soon Cameraman Tower Defense.",
+      "items": [
+        {
+          "question": "O que é Soon Cameraman Tower Defense?",
+          "answer": "Soon Cameraman Tower Defense é um jogo de tower defense do Roblox em que você posiciona defensores com cabeça de câmera ao longo dos caminhos dos inimigos, coleta e evolui um plantel de unidades cameraman e defende sua base contra ondas de inimigos cada vez mais fortes."
+        },
+        {
+          "question": "Como resgato os códigos de Soon Cameraman Tower Defense?",
+          "answer": "Abra Soon Cameraman Tower Defense no Roblox, entre no lobby, toque no ícone de Codes ou Rewards, cole seu código exatamente como escrito e envie para receber gemas, moedas, poções de sorte ou tokens de reroll."
+        },
+        {
+          "question": "Quais são as melhores unidades de Soon Cameraman Tower Defense?",
+          "answer": "Upgraded Titan Cameraman e Scientist Cameraman definem o tier S de Soon Cameraman Tower Defense, enquanto Ninja Cameraman e Mech Cameraman são escolhas confiáveis de tier A para corredores velozes e enxames aglomerados."
+        },
+        {
+          "question": "Como sobrevivo às ondas finais em Soon Cameraman Tower Defense?",
+          "answer": "Em Soon Cameraman Tower Defense, construa renda cedo, posicione suporte de redução de velocidade nas curvas internas do caminho e evolua suas unidades Titan pesadas antes que as ondas de chefes blindados cheguem."
+        },
+        {
+          "question": "Soon Cameraman Tower Defense tem modos solo e infinito?",
+          "answer": "Sim, Soon Cameraman Tower Defense suporta vitórias solo e equipes cooperativas, e seu Modo Infinito continua escalando ondas de inimigos para jogadores que buscam runs de alto ranking."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para Dominar Soon Cameraman Tower Defense?",
+      "description": "Do posicionamento de torres para iniciantes à defesa contra ondas de inimigos no fim de jogo, nossa wiki da comunidade tem tudo com guias gratuitos e atualizados.",
+      "primary": "Ler o Guia para Iniciantes",
+      "secondary": "Jogar no Roblox"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegação da Wiki",
+    "activeCodes": "Códigos Ativos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Ver todos os códigos",
+    "playOnRoblox": "Jogar no Roblox",
+    "inThisSection": "Nesta seção",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos Passos",
+    "needHelp": "Precisa de Ajuda?",
+    "relatedReading": "Leitura Relacionada",
+    "relatedGuides": "Guias Relacionados",
+    "readMore": "Leia mais",
+    "officialMedia": "Mídia oficial",
+    "home": "Início",
+    "noGuidesAvailable": "Ainda não há guias disponíveis. Volte em breve!"
+  },
+  "footer": {
+    "aboutTitle": "Soon Cameraman Tower Defense Wiki",
+    "about": "A Wiki do Soon Cameraman Tower Defense é um hub de guias independente feito por fãs, cobrindo unidades, estratégias de ondas, tier lists, códigos e mecânicas essenciais de gameplay para jogadores de Roblox.",
+    "quickLinks": "Links Rápidos",
+    "guides": "Guias",
+    "legal": "Jurídico",
+    "copyright": "© 2026 Soon Cameraman Tower Defense Wiki. Sem afiliação com o Roblox ou com os criadores do jogo.",
+    "description": "Wiki do jogo de estratégia Roblox Cameraman Tower Defense. Guias de unidades, tier lists, estratégias de ondas e códigos ativos.",
+    "playGame": "Jogue Soon Cameraman Tower Defense",
+    "officialDiscord": "Discord Oficial",
+    "officialYoutube": "YouTube Oficial",
+    "beginnerGuide": "Guia para Iniciantes",
+    "privacyPolicy": "Política de Privacidade",
+    "termsOfService": "Termos de Serviço",
+    "characters": "Personagens",
+    "items": "Unidades e Itens",
+    "mechanics": "Mecânicas",
+    "codes": "Códigos",
+    "community": "Comunidade",
+    "progression": "Progressão"
+  },
+  "guide": {
+    "overviewTitle": "Guias de Soon Cameraman Tower Defense",
+    "overviewDescription": "Guias passo a passo de Soon Cameraman Tower Defense cobrindo o básico para iniciantes, estratégia de defesa de ondas, modos de dificuldade e jogo solo para você vencer todos os mapas com confiança."
+  },
+  "characters": {
+    "overviewTitle": "Personagens de Soon Cameraman Tower Defense",
+    "overviewDescription": "Análises completas dos personagens de Soon Cameraman Tower Defense para as unidades Titan, Laser, Engineer, Astro e Prototype Cameraman, incluindo funções, atributos e caminhos de upgrade."
+  },
+  "items": {
+    "overviewTitle": "Unidades e Itens de Soon Cameraman Tower Defense",
+    "overviewDescription": "Guias de unidades, tier lists, dicas de invocação e análises de valor de Soon Cameraman Tower Defense para ajudar você a escolher os defensores mais fortes para cada onda."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecânicas de Soon Cameraman Tower Defense",
+    "overviewDescription": "Aprenda as mecânicas centrais de Soon Cameraman Tower Defense, de buffs e modo infinito a modos de jogo e mudanças de atualização que moldam o meta."
+  },
+  "progression": {
+    "overviewTitle": "Progressão de Soon Cameraman Tower Defense",
+    "overviewDescription": "Acompanhe a progressão de Soon Cameraman Tower Defense com guias de upgrade, rotas de desbloqueio de unidades, detalhes do roadmap, informações de data de lançamento e resumos de vazamentos."
+  },
+  "codes": {
+    "overviewTitle": "Códigos de Soon Cameraman Tower Defense",
+    "overviewDescription": "Todos os códigos de Soon Cameraman Tower Defense em um só lugar, com passos de resgate, detalhes das recompensas e dicas para acompanhar novos códigos antes que expirem."
+  },
+  "community": {
+    "overviewTitle": "Comunidade de Soon Cameraman Tower Defense",
+    "overviewDescription": "Participe da comunidade de Soon Cameraman Tower Defense pelo Discord, Reddit e hubs de troca para compartilhar estratégias, valores e dicas de unidades."
+  }
+}

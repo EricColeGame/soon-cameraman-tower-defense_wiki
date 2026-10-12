@@ -1,1 +1,488 @@
-{}
+{
+  "site": {
+    "name": "Soon Cameraman Tower Defense Wiki",
+    "shortName": "Soon Cameraman TD",
+    "tagline": "Panduan Lengkap, Kode, Unit & Tier List",
+    "description": "Panduan lengkap Anda untuk Soon Cameraman Tower Defense di Roblox! Jelajahi kode aktif, panduan unit, upgrade terbaik, strategi gelombang, dan panduan progresi.",
+    "legalNotice": "Wiki penggemar tidak resmi. Dibuat oleh pemain, untuk pemain."
+  },
+  "nav": {
+    "guide": "Panduan",
+    "characters": "Karakter",
+    "items": "Item",
+    "mechanics": "Mekanik",
+    "progression": "Progresi",
+    "codes": "Kode",
+    "community": "Komunitas",
+    "menu": "Menu",
+    "toggleTheme": "Ganti tema"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki Soon Cameraman Tower Defense - Kode, Unit & Panduan",
+      "description": "Wiki Soon Cameraman Tower Defense menyediakan kode Roblox, panduan unit, tips gameplay, pembaruan, dan strategi untuk membantu pemain membangun pertahanan yang lebih kuat."
+    },
+    "hero": {
+      "eyebrow": "Game Strategi Tower Defense di Roblox",
+      "title": "Soon Cameraman Tower Defense Wiki",
+      "description": "Soon Cameraman Tower Defense adalah game strategi Roblox tempat pemain mengumpulkan unit cameraman, membangun tim pertahanan, meningkatkan tower, dan melawan gelombang musuh.",
+      "stats": [
+        "Platform: Roblox",
+        "Genre: Tower Defense",
+        "Unit: Kumpulkan & Upgrade",
+        "Kode Aktif: N/A"
+      ],
+      "primaryCta": "Panduan Pemula",
+      "secondaryCta": "Tier List Unit",
+      "tertiaryCta": "Kode Aktif",
+      "videoLabel": "Media Resmi"
+    },
+    "updates": {
+      "title": "Pembaruan Terbaru",
+      "browse": "Jelajahi Semua Panduan",
+      "viewAll": "Lihat Semua"
+    },
+    "start": {
+      "eyebrow": "Mulai di Sini",
+      "title": "Perjalanan Anda di Soon Cameraman Tower Defense",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Panduan Pemula",
+          "description": "Pelajari alur inti pertahanan gelombang, penempatan unit awal, posisi di titik penyempitan, dan pengelolaan uang sebelum pertandingan sulit pertama Anda."
+        },
+        {
+          "number": "2",
+          "title": "Tier List Unit Terbaik",
+          "description": "Bandingkan setiap arketipe cameraman, dari pembunuh bos Titan tier S hingga pemula murah gelombang pertama, agar Anda tahu siapa yang harus dipanggil lebih dulu."
+        },
+        {
+          "number": "3",
+          "title": "Upgrade & Buka Unit",
+          "description": "Rencanakan jalur progresi Anda, capai titik upgrade yang efisien, dan buka defender elit yang dibutuhkan untuk gelombang akhir permainan."
+        },
+        {
+          "number": "4",
+          "title": "Tukar Kode",
+          "description": "Ikuti rutinitas penukaran di dalam game dan pelajari kategori hadiah mana, dari permata hingga ramuan keberuntungan, yang layak diprioritaskan."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Halaman Populer",
+      "title": "Sedang Tren",
+      "quickLinks": [
+        "Panduan Pemula",
+        "Tier List Unit",
+        "Kode Aktif",
+        "Mode Tanpa Akhir"
+      ],
+      "cards": [
+        {
+          "badge": "Pemula",
+          "title": "Panduan Pemula",
+          "description": "Semua yang Anda butuhkan dari pertandingan pertama hingga menguasai penempatan unit dan ekonomi.",
+          "href": "/guide/soon-cameraman-tower-defense-beginner-guide"
+        },
+        {
+          "badge": "Diperbarui",
+          "title": "Kode Aktif",
+          "description": "Semua kode yang berfungsi beserta hadiahnya — tukar sebelum kedaluwarsa.",
+          "href": "/codes/soon-cameraman-tower-defense-codes"
+        },
+        {
+          "badge": "Meta",
+          "title": "Tier List Unit",
+          "description": "Peringkat meta lengkap yang membandingkan titan tier S hingga pengintai pemula dasar.",
+          "href": "/items/soon-cameraman-tower-defense-unit-tier-list"
+        },
+        {
+          "badge": "Unit",
+          "title": "Upgraded Titan Cameraman",
+          "description": "Statistik detail, jangkauan railgun, dan biaya upgrade unit berat garis depan teratas.",
+          "href": "/characters/soon-cameraman-tower-defense-upgraded-titan-cameraman"
+        },
+        {
+          "badge": "Panduan",
+          "title": "Strategi dari Pemula ke Pro",
+          "description": "Tips penting dan posisi taktis untuk beralih dari pertandingan santai ke kemenangan pro.",
+          "href": "/guide/soon-cameraman-tower-defense-noob-to-pro"
+        },
+        {
+          "badge": "Mode",
+          "title": "Panduan Mode Tanpa Akhir",
+          "description": "Bertahanlah dari gelombang tanpa batas dengan strategi penyempitan DPS tinggi dan sinergi buffer.",
+          "href": "/mechanics/soon-cameraman-tower-defense-endless-mode"
+        },
+        {
+          "badge": "Panduan",
+          "title": "Strategi Menang Solo",
+          "description": "Komposisi andal untuk satu pemain dan ritme ekonomi tanpa perlu dibawa tim.",
+          "href": "/guide/soon-cameraman-tower-defense-solo-guide"
+        },
+        {
+          "badge": "Unit",
+          "title": "Meta Unit Terbaik",
+          "description": "Evaluasi unit teratas, prioritas pemanggilan, dan tonggak upgrade untuk semua tahap.",
+          "href": "/items/soon-cameraman-tower-defense-best-units"
+        },
+        {
+          "badge": "Pembaruan",
+          "title": "Roadmap & Bocoran Mendatang",
+          "description": "Pratinjau mekanik mendatang, karakter yang diungkap, dan sistem progresi.",
+          "href": "/progression/soon-cameraman-tower-defense-roadmap"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Apa Itu Soon Cameraman Tower Defense?",
+      "paragraphs": [
+        "Soon Cameraman Tower Defense adalah game strategi Roblox yang dibangun seputar defender berkepala kamera. Pemain menempatkan unit cameraman khusus di sepanjang jalur musuh yang berkelok, memadukan pengintai garis depan murah, penyiar damage area, aura pendukung yang memperlambat, dan Titan Cameraman raksasa untuk menghentikan setiap gelombang sebelum mencapai markas.",
+        "Kemajuan bergantung pada disiplin ekonomi sama seperti kekuatan tembakan mentah. Uang yang diperoleh dari musuh yang dikalahkan dan bonus gelombang harus dibagi antara pertahanan awal dan penghasilan, sementara penempatan unit di tikungan jalur dan titik penyempitan menentukan berapa lama setiap tower terus menembak. Dari kemenangan solo dan tim koop hingga mode Insane dan Tanpa Akhir, game ini menghargai pemain yang merencanakan upgrade alih-alih membangun berlebihan di awal."
+      ],
+      "stats": [
+        {
+          "label": "Platform",
+          "value": "Roblox"
+        },
+        {
+          "label": "Genre",
+          "value": "Tower Defense"
+        },
+        {
+          "label": "Daftar Unit",
+          "value": "Kumpulkan & Upgrade"
+        },
+        {
+          "label": "Mode",
+          "value": "Insane & Tanpa Akhir"
+        },
+        {
+          "label": "Tier Unit",
+          "value": "Peringkat S hingga C"
+        },
+        {
+          "label": "Alur Inti",
+          "value": "Bertahan dari Gelombang"
+        },
+        {
+          "label": "Pembaruan",
+          "value": "Patch Rutin"
+        }
+      ],
+      "cta": "Baca Panduan Pemula"
+    },
+    "explore": {
+      "title": "Jelajahi Wiki Soon Cameraman Tower Defense",
+      "description": "Kuasai strategi tower defense Anda di Roblox dengan panduan progresi penting, kode aktif, tier list unit lengkap, dan strategi upgrade optimal.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Kode Soon Cameraman Tower Defense",
+          "description": "Modul ini mengumpulkan kode tukar aktif, kode kedaluwarsa, dan hadiah yang tersedia seperti koin, permata, atau item eksklusif. Modul ini menyasar pemain yang mencari hadiah gratis dan pembaruan kode setelah patch atau event baru.",
+          "href": "/codes/soon-cameraman-tower-defense-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Permata",
+              "detail": "Mata uang pemanggilan premium untuk mendapatkan unit cameraman kelangkaan tinggi dari banner terbatas.",
+              "badge": "Pilihan Utama"
+            },
+            {
+              "label": "Koin",
+              "detail": "Mata uang standar tahap untuk menempatkan unit dan menaikkan level cameraman awal.",
+              "badge": "Umum"
+            },
+            {
+              "label": "Ramuan Keberuntungan",
+              "detail": "Peningkatan sementara tingkat banner yang menaikkan peluang pemanggilan mitos selama sesi pemanggilan ganda.",
+              "badge": "Tingkat Naik"
+            },
+            {
+              "label": "Reroll",
+              "detail": "Token reroll trait yang mengacak ulang pengubah pasif pada defender tingkat atas.",
+              "badge": "Akhir Permainan"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Panduan Pemula Soon Cameraman Tower Defense",
+          "description": "Panduan awal yang menjelaskan gameplay dasar, penempatan tower, bertahan dari gelombang, upgrade, dan jalur progresi untuk pemain baru. Ini membantu pemula memahami alur inti tower defense dan strategi awal.",
+          "href": "/guide/soon-cameraman-tower-defense-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Tempatkan Camera Scouts murah di titik penyempitan pintu masuk untuk membersihkan pelari cepat pertama."
+            },
+            {
+              "label": "2",
+              "detail": "Pertahankan hanya damage letal di jalur, lalu alirkan uang berlebih ke unit penghasil hingga gelombang ketiga."
+            },
+            {
+              "label": "3",
+              "detail": "Jangkarkan damage area dan dukungan pelambat di tikungan U bagian dalam untuk memperpanjang jendela tembakan."
+            },
+            {
+              "label": "4",
+              "detail": "Simpan koin untuk upgrade Titan yang berat sebelum gelombang bos berbaju besi mencapai gerbang markas."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Tier List Unit Soon Cameraman Tower Defense",
+          "description": "Modul peringkat yang membandingkan unit Cameraman dan unit pertahanan lain berdasarkan damage, utilitas, nilai upgrade, dan performa akhir permainan. Ini membantu pemain memutuskan unit mana yang layak di-upgrade dan digunakan.",
+          "href": "/items/soon-cameraman-tower-defense-unit-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Upgraded Titan Cameraman menjadi jangkar pertahanan berat garis depan, sementara Scientist Cameraman mendanai setiap upgrade dengan penghasilan gelombang pasif."
+            },
+            {
+              "label": "A",
+              "detail": "Ninja Cameraman menebas gelombang pelari cepat dan Mech Cameraman menambah damage area andal dengan biaya koin yang wajar."
+            },
+            {
+              "label": "B",
+              "detail": "Large Cameraman memberi knockback keras di awal dan Camera Helicopter menutupi peta terbuka dengan damage bergerak."
+            },
+            {
+              "label": "C",
+              "detail": "Basic Cameraman adalah pemula murah gelombang pertama dan Car Cameraman menukar biaya tinggi dengan satu serangan ledakan."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Panduan Unit Soon Cameraman Tower Defense",
+          "description": "Modul ini memberikan informasi rinci tentang unit yang tersedia, termasuk kemampuan, jalur upgrade, peran, dan skenario penggunaan yang direkomendasikan. Modul ini menyasar pencarian tentang unit cameraman tertentu dan cara menyusun tim.",
+          "href": "/items/soon-cameraman-tower-defense-units",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Titan",
+              "detail": "Pembunuh bos garis depan raksasa seperti Upgraded Titan Cameraman dengan damage area kerucut lebar."
+            },
+            {
+              "label": "Dukungan",
+              "detail": "Aura pelambat dan unit stun yang menahan pelari cepat di dalam zona damage Anda di tikungan jalur."
+            },
+            {
+              "label": "Ekonomi",
+              "detail": "Scientist Cameraman dan unit farm yang mengubah gelombang awal menjadi kurva uang yang bertumbuh."
+            },
+            {
+              "label": "Area",
+              "detail": "Unit penyiar dan mech yang menyapu kawanan musuh yang mengelompok di persimpangan yang tumpang tindih."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Panduan Pembaruan Soon Cameraman Tower Defense",
+          "description": "Pelacak berita dan pembaruan yang mencakup konten baru, perubahan keseimbangan, event, dan peluncuran fitur. Ini membantu pemain yang kembali memahami dengan cepat apa yang berubah setelah setiap pembaruan.",
+          "href": "/mechanics/soon-cameraman-tower-defense-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Daftar Unit",
+              "detail": "Patch keseimbangan secara rutin mengubah arketipe cameraman mana yang berada di puncak tier list."
+            },
+            {
+              "label": "Ekonomi",
+              "detail": "Catatan pembaruan sering menyesuaikan hadiah pembunuhan, dividen gelombang, dan kurva harga upgrade."
+            },
+            {
+              "label": "Peta",
+              "detail": "Peta baru menghadirkan tata letak jalur, titik penyempitan, dan pengubah kesulitan baru untuk dipelajari."
+            },
+            {
+              "label": "Pratinjau",
+              "detail": "Dev log pengembang dan pratinjau komunitas membocorkan unit mendatang sebelum dirilis."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Panduan Peta Soon Cameraman Tower Defense",
+          "description": "Bagian strategi peta yang mencakup tahap yang tersedia, informasi kesulitan, pola musuh, dan susunan tim yang direkomendasikan. Ini membantu pemain yang mencari cara menuntaskan peta dan strategi gelombang.",
+          "href": "/mechanics/soon-cameraman-tower-defense-modes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Standar",
+              "detail": "Peta kampanye dasar dengan rute satu jalur dan penghasilan penuh per pembunuhan untuk skuad baru.",
+              "badge": "Pemula"
+            },
+            {
+              "label": "Hardcore",
+              "detail": "Tahap bergaya mimpi buruk dengan jalur terbelah, elit berbaju pelindung, dan penghasilan per pembunuhan berkurang.",
+              "badge": "Ahli"
+            },
+            {
+              "label": "Tanpa Akhir",
+              "detail": "Gelombang tanpa batas yang menghargai pertahanan titik penyempitan DPS tinggi dan permainan ekonomi yang kuat.",
+              "badge": "Tanpa Akhir"
+            },
+            {
+              "label": "Rush Bos",
+              "detail": "Mega-bos berurutan dengan uang awal tinggi dan tanpa jatuhnya sumber daya di tengah gelombang.",
+              "badge": "Raid"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Strategi Soon Cameraman Tower Defense",
+          "description": "Koleksi strategi yang mencakup metode farming, prioritas upgrade, kombinasi tim, dan cara bertahan dari gelombang sulit. Ini menyasar pemain yang mencari tips gameplay tingkat lanjut.",
+          "href": "/guide/soon-cameraman-tower-defense-tips-and-tricks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Penyempitan",
+              "detail": "Tumpuk cakupan yang tumpang tindih di tikungan U bagian dalam untuk memaksimalkan waktu kontak target."
+            },
+            {
+              "label": "Ekonomi",
+              "detail": "Pertahankan hanya damage letal di jalur di awal, lalu alirkan uang berlebih untuk meningkatkan penghasilan hingga gelombang 15."
+            },
+            {
+              "label": "Penargetan",
+              "detail": "Setel pembunuh bos ke Strongest dan sniper cepat ke First untuk mencegah pelari bocor."
+            },
+            {
+              "label": "Upgrade",
+              "detail": "Beli titik upgrade yang melonjakkan DPS alih-alih menyebar level ke tower lemah."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Video Gameplay Soon Cameraman Tower Defense",
+          "description": "Modul ini menampilkan video gameplay resmi atau komunitas yang menunjukkan mekanik, pembaruan, dan etalase unit. Ini menyediakan referensi visual bagi pemain yang lebih suka belajar lewat video.",
+          "href": "/community/soon-cameraman-tower-defense-community",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Solo",
+              "detail": "Analisis kemenangan solo yang menunjukkan ritme ekonomi dan loadout untuk pertandingan mode sulit."
+            },
+            {
+              "label": "Tier",
+              "detail": "Penjelasan tier list unit yang membandingkan titan tier S dengan pilihan awal hemat."
+            },
+            {
+              "label": "Tanpa Akhir",
+              "detail": "Pertandingan mode Tanpa Akhir yang menunjukkan aura dukungan akhir permainan dan tumpang tindih damage area."
+            },
+            {
+              "label": "Mode",
+              "detail": "Rekaman mode Insane dan sulit yang mencakup counter bos dan penempatan titik penyempitan."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Pertanyaan yang Sering Diajukan",
+      "description": "Jawaban cepat untuk pertanyaan paling umum tentang Soon Cameraman Tower Defense.",
+      "items": [
+        {
+          "question": "Apa Itu Soon Cameraman Tower Defense?",
+          "answer": "Soon Cameraman Tower Defense adalah game tower defense Roblox tempat Anda menempatkan defender berkepala kamera di sepanjang jalur musuh, mengumpulkan dan meningkatkan daftar unit cameraman, serta mempertahankan markas dari gelombang musuh yang semakin kuat."
+        },
+        {
+          "question": "Bagaimana cara menukar kode Soon Cameraman Tower Defense?",
+          "answer": "Buka Soon Cameraman Tower Defense di Roblox, masuk ke lobi, ketuk ikon Codes atau Rewards, tempel kode Anda persis seperti tertulis, dan kirimkan untuk menerima permata, koin, ramuan keberuntungan, atau token reroll."
+        },
+        {
+          "question": "Unit mana yang terbaik di Soon Cameraman Tower Defense?",
+          "answer": "Upgraded Titan Cameraman dan Scientist Cameraman mendefinisikan tier S Soon Cameraman Tower Defense, sementara Ninja Cameraman dan Mech Cameraman adalah pilihan tier A yang andal untuk pelari cepat dan kawanan yang mengelompok."
+        },
+        {
+          "question": "Bagaimana cara bertahan dari gelombang akhir di Soon Cameraman Tower Defense?",
+          "answer": "Di Soon Cameraman Tower Defense, bangun penghasilan lebih awal, tempatkan dukungan pelambat di tikungan jalur bagian dalam, dan tingkatkan unit Titan berat Anda sebelum gelombang bos berbaju besi datang."
+        },
+        {
+          "question": "Apakah Soon Cameraman Tower Defense punya mode solo dan tanpa akhir?",
+          "answer": "Ya, Soon Cameraman Tower Defense mendukung kemenangan solo dan tim koop, dan Mode Tanpa Akhir-nya terus meningkatkan gelombang musuh bagi pemain yang mengejar skor papan peringkat tinggi."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Siap Menguasai Soon Cameraman Tower Defense?",
+      "description": "Dari penempatan tower untuk pemula hingga pertahanan gelombang musuh di akhir permainan, wiki komunitas kami siap membantu dengan panduan gratis dan terbaru.",
+      "primary": "Baca Panduan Pemula",
+      "secondary": "Mainkan di Roblox"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navigasi Wiki",
+    "activeCodes": "Kode Aktif",
+    "updated": "Diperbarui",
+    "viewAllCodes": "Lihat semua kode",
+    "playOnRoblox": "Mainkan di Roblox",
+    "inThisSection": "Di bagian ini",
+    "tableOfContents": "Daftar Isi",
+    "nextSteps": "Langkah Berikutnya",
+    "needHelp": "Butuh Bantuan?",
+    "relatedReading": "Bacaan Terkait",
+    "relatedGuides": "Panduan Terkait",
+    "readMore": "Baca selengkapnya",
+    "officialMedia": "Media resmi",
+    "home": "Beranda",
+    "noGuidesAvailable": "Belum ada panduan tersedia. Periksa lagi nanti!"
+  },
+  "footer": {
+    "aboutTitle": "Soon Cameraman Tower Defense Wiki",
+    "about": "Wiki Soon Cameraman Tower Defense adalah pusat panduan independen buatan penggemar yang mencakup unit, strategi gelombang, tier list, kode, dan mekanik gameplay penting untuk pemain Roblox.",
+    "quickLinks": "Tautan Cepat",
+    "guides": "Panduan",
+    "legal": "Legal",
+    "copyright": "© 2026 Soon Cameraman Tower Defense Wiki. Tidak berafiliasi dengan Roblox atau pembuat game.",
+    "description": "Wiki game strategi Roblox Cameraman Tower Defense. Panduan unit, tier list, strategi gelombang, dan kode aktif.",
+    "playGame": "Mainkan Soon Cameraman Tower Defense",
+    "officialDiscord": "Discord Resmi",
+    "officialYoutube": "YouTube Resmi",
+    "beginnerGuide": "Panduan Pemula",
+    "privacyPolicy": "Kebijakan Privasi",
+    "termsOfService": "Ketentuan Layanan",
+    "characters": "Karakter",
+    "items": "Unit & Item",
+    "mechanics": "Mekanik",
+    "codes": "Kode",
+    "community": "Komunitas",
+    "progression": "Progresi"
+  },
+  "guide": {
+    "overviewTitle": "Panduan Soon Cameraman Tower Defense",
+    "overviewDescription": "Panduan langkah demi langkah Soon Cameraman Tower Defense yang mencakup dasar untuk pemula, strategi pertahanan gelombang, mode kesulitan, dan permainan solo agar Anda bisa menuntaskan setiap peta dengan percaya diri."
+  },
+  "characters": {
+    "overviewTitle": "Karakter Soon Cameraman Tower Defense",
+    "overviewDescription": "Ulasan lengkap karakter Soon Cameraman Tower Defense untuk unit Titan, Laser, Engineer, Astro, dan Prototype Cameraman, termasuk peran, statistik, dan jalur upgrade."
+  },
+  "items": {
+    "overviewTitle": "Unit & Item Soon Cameraman Tower Defense",
+    "overviewDescription": "Panduan unit, tier list, tips pemanggilan, dan ulasan nilai Soon Cameraman Tower Defense untuk membantu Anda memilih defender terkuat di setiap gelombang."
+  },
+  "mechanics": {
+    "overviewTitle": "Mekanik Soon Cameraman Tower Defense",
+    "overviewDescription": "Pelajari mekanik inti Soon Cameraman Tower Defense, dari buff dan mode tanpa akhir hingga mode permainan dan perubahan pembaruan yang membentuk meta."
+  },
+  "progression": {
+    "overviewTitle": "Progresi Soon Cameraman Tower Defense",
+    "overviewDescription": "Lacak progresi Soon Cameraman Tower Defense dengan panduan upgrade, rute pembukaan unit, detail roadmap, info tanggal rilis, dan rangkuman bocoran."
+  },
+  "codes": {
+    "overviewTitle": "Kode Soon Cameraman Tower Defense",
+    "overviewDescription": "Semua kode Soon Cameraman Tower Defense di satu tempat, dengan langkah penukaran, detail hadiah, dan tips melacak kode baru sebelum kedaluwarsa."
+  },
+  "community": {
+    "overviewTitle": "Komunitas Soon Cameraman Tower Defense",
+    "overviewDescription": "Bergabunglah dengan komunitas Soon Cameraman Tower Defense melalui Discord, Reddit, dan pusat perdagangan untuk berbagi strategi, nilai, dan saran unit."
+  }
+}
