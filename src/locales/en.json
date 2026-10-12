@@ -39,22 +39,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master wave defense, early unit placement, and cash management across initial stages."
+          "description": "Learn the core wave defense loop, early unit placement, chokepoint positioning, and cash management before your first hard run."
         },
         {
           "number": "2",
-          "title": "Unit Tier List",
-          "description": "Identify top-performing Cameraman units and build an optimal loadout for hard waves."
+          "title": "Best Units Tier List",
+          "description": "Compare every cameraman archetype from S-tier Titan boss killers down to cheap wave-one starters so you know what to summon first."
         },
         {
           "number": "3",
-          "title": "Fastest Leveling & XP",
-          "description": "Learn the most efficient solo farming routes to unlock advanced unit slots quickly."
+          "title": "Upgrade & Unlock Units",
+          "description": "Plan your progression path, hit efficient upgrade breakpoints, and unlock the elite defenders needed for late-game waves."
         },
         {
           "number": "4",
-          "title": "Redeem Active Codes",
-          "description": "Claim free coins, gems, and exclusive boosts using latest community promo codes."
+          "title": "Redeem Codes",
+          "description": "Follow the in-game redemption routine and learn which reward categories, from gems to luck potions, are worth prioritizing."
         }
       ]
     },
@@ -127,14 +127,10 @@
     "aboutGame": {
       "title": "What is Soon Cameraman Tower Defense?",
       "paragraphs": [
-        "Soon Cameraman Tower Defense is an action strategy tower defense game on Roblox inspired by the viral Cameraman and Skibidi universe. Players collect and deploy specialized hardware defenders, ranging from agile Camera Scouts and Laser Gunners to colossal Titan Cameramen, positioning them along winding maps to eliminate relentless waves of mechanized enemies.",
-        "Mastering the battlefield demands precise cash management, strategic placement at track chokepoints, and disciplined upgrade timing. Whether testing tactical team loadouts in Insane Mode, pushing endurance limits in Endless Mode, or trading rare units with friends in community hubs, Soon Cameraman Tower Defense delivers deep, replayable strategic gameplay."
+        "Soon Cameraman Tower Defense is a Roblox strategy game built around camera-headed defenders. Players place specialized cameraman units along winding enemy paths, mixing cheap frontline scouts, splash-damage broadcasters, slowing support auras, and colossal Titan Cameramen to stop every wave before it reaches the base.",
+        "Progress runs on economy discipline as much as raw firepower. Cash earned from defeated creeps and wave bonuses has to be split between early defense and income generation, while unit placement at track bends and chokepoints decides how long each tower keeps firing. From solo clears and co-op teams to Insane and Endless modes, the game rewards players who plan upgrades instead of overbuilding early."
       ],
       "stats": [
-        {
-          "label": "Developer",
-          "value": "Roblox Community"
-        },
         {
           "label": "Platform",
           "value": "Roblox"
@@ -144,20 +140,24 @@
           "value": "Tower Defense"
         },
         {
+          "label": "Roster",
+          "value": "Collect & Upgrade"
+        },
+        {
           "label": "Modes",
-          "value": "Endless & Insane"
+          "value": "Insane & Endless"
         },
         {
-          "label": "Playable Units",
-          "value": "15+ Units"
+          "label": "Unit Tiers",
+          "value": "S to C Ranked"
         },
         {
-          "label": "Strategy",
+          "label": "Core Loop",
           "value": "Wave Survival"
         },
         {
-          "label": "Frequency",
-          "value": "Regular Updates"
+          "label": "Updates",
+          "value": "Regular Patches"
         }
       ],
       "cta": "Read Beginner Guide"
@@ -174,19 +174,24 @@
           "displayType": "code-cards",
           "highlights": [
             {
-              "label": "RELEASE",
-              "detail": "Redeem for 500 Coins and Starter Boosts",
-              "badge": "Active"
+              "label": "Gems",
+              "detail": "Premium summon currency used to pull high-rarity cameraman units from limited banners.",
+              "badge": "Top Pick"
             },
             {
-              "label": "CAMERAMAN",
-              "detail": "Redeem for 250 Gems and Summon Tickets",
-              "badge": "Active"
+              "label": "Coins",
+              "detail": "Standard stage currency for deploying units and leveling early cameramen.",
+              "badge": "Common"
             },
             {
-              "label": "DEFENSE50K",
-              "detail": "Redeem for Free Coin Crate and Luck Potion",
-              "badge": "Active"
+              "label": "Luck Potion",
+              "detail": "Temporary banner rate boost that raises mythical pull odds during multi-summon sessions.",
+              "badge": "Rate Up"
+            },
+            {
+              "label": "Reroll",
+              "detail": "Trait reroll tokens that re-roll passive modifiers on top-tier defenders.",
+              "badge": "Endgame"
             }
           ]
         },
@@ -199,19 +204,19 @@
           "highlights": [
             {
               "label": "1",
-              "detail": "Deploy low-cost Camera Scouts near early choke corners to eliminate swift opening runners."
+              "detail": "Deploy cheap Camera Scouts at the entrance chokepoint to clear the first fast runners."
             },
             {
               "label": "2",
-              "detail": "Maintain minimal lethal track defense while funneling spare cash into income generators."
+              "detail": "Keep only lethal track damage, then funnel excess cash into income units by wave three."
             },
             {
               "label": "3",
-              "detail": "Place slowing support towers and splash damage units at intersecting roadway bends."
+              "detail": "Anchor splash and slowing support on inner U-turn corners to extend firing windows."
             },
             {
               "label": "4",
-              "detail": "Save capital for Titan heavy boss killers before challenging armor waves arrive."
+              "detail": "Bank coins for heavy Titan upgrades before armored boss waves reach the base gate."
             }
           ]
         },
@@ -224,19 +229,19 @@
           "highlights": [
             {
               "label": "S",
-              "detail": "Upgraded Titan Cameraman & Scientist Cameraman provide supreme DPS and economy."
+              "detail": "Upgraded Titan Cameraman anchors heavy frontline defense while Scientist Cameraman funds every upgrade with passive wave income."
             },
             {
               "label": "A",
-              "detail": "Ninja Cameraman & Mech Cameraman deliver fast attack speed and reliable AoE swarm clears."
+              "detail": "Ninja Cameraman slices fast runner waves and Mech Cameraman adds dependable splash damage at a fair coin cost."
             },
             {
               "label": "B",
-              "detail": "Large Cameraman offers heavy blunt knockback and reliable mid-game crowd control."
+              "detail": "Large Cameraman brings blunt knockback early and Camera Helicopter covers open maps with mobile chip damage."
             },
             {
               "label": "C",
-              "detail": "Basic Cameraman serves as an affordable wave-one starter before being replaced."
+              "detail": "Basic Cameraman is a cheap wave-one starter and Car Cameraman trades high cost for a single burst hit."
             }
           ]
         },
@@ -249,19 +254,19 @@
           "highlights": [
             {
               "label": "Titans",
-              "detail": "Colossal frontline heavy hitters boasting dual railguns and immense area blast damage."
+              "detail": "Colossal frontline boss killers such as Upgraded Titan Cameraman with wide-cone splash damage."
             },
             {
               "label": "Support",
-              "detail": "Buffer units that decelerate hostile creeps and multiply adjacent squad attack speed."
+              "detail": "Slowing auras and stun units that hold fast runners inside your damage zone at track bends."
             },
             {
               "label": "Economy",
-              "detail": "Income producers that generate reliable cash each wave to fund high-cost unit upgrades."
+              "detail": "Scientist Cameraman and farm units that turn early waves into a compounding cash curve."
             },
             {
               "label": "Splash",
-              "detail": "Broadcasters and grenade units capable of wiping dense enemy hordes efficiently."
+              "detail": "Broadcaster and mech units that wipe clumped enemy swarms across overlapping intersections."
             }
           ]
         },
@@ -270,22 +275,23 @@
           "name": "Soon Cameraman Tower Defense Update Guide",
           "description": "A news and update tracker covering new content, balance changes, events, and feature releases. It helps returning players quickly understand what changed after each update.",
           "href": "/mechanics/soon-cameraman-tower-defense-update",
-          "displayType": "code-cards",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "v1.2.0",
-              "detail": "Introduced Insane Mode stages with enhanced boss immunities and bonus loot.",
-              "badge": "New"
+              "label": "Roster",
+              "detail": "Balance patches regularly shift which cameraman archetypes sit at the top of the tier list."
             },
             {
-              "label": "v1.1.5",
-              "detail": "Buffed single-target damage of Laser Cameraman and reduced early upgrade costs.",
-              "badge": "Balance"
+              "label": "Economy",
+              "detail": "Update notes often adjust kill bounties, wave dividends, and upgrade price curves."
             },
             {
-              "label": "v1.1.0",
-              "detail": "Added Scientist Cameraman economy perks and new summon banner rotation.",
-              "badge": "Roster"
+              "label": "Maps",
+              "detail": "New maps introduce fresh lane layouts, chokepoints, and difficulty modifiers to learn."
+            },
+            {
+              "label": "Preview",
+              "detail": "Developer dev logs and community previews tease upcoming units before they go live."
             }
           ]
         },
@@ -298,18 +304,23 @@
           "highlights": [
             {
               "label": "Standard",
-              "detail": "Ideal testing grounds with single-lane routes and predictable pacing for new squads.",
-              "badge": "Normal"
+              "detail": "Baseline campaign maps with single-lane routes and full kill income for new squads.",
+              "badge": "Beginner"
             },
             {
               "label": "Hardcore",
-              "detail": "Features split corridors and reduced kill income requiring disciplined economy play.",
-              "badge": "Hard"
+              "detail": "Nightmare-style stages with split lanes, shielded elites, and reduced kill income.",
+              "badge": "Expert"
             },
             {
               "label": "Endless",
-              "detail": "Infinite scaling enemy waves designed to push high-DPS choke defenses to their limit.",
+              "detail": "Infinite scaling waves that reward high-DPS chokepoint defenses and strong economy play.",
               "badge": "Endless"
+            },
+            {
+              "label": "Boss Rush",
+              "detail": "Sequential mega-bosses with high starting cash and no mid-wave resource drops.",
+              "badge": "Raid"
             }
           ]
         },
@@ -322,19 +333,19 @@
           "highlights": [
             {
               "label": "Choke",
-              "detail": "Cluster overlapping sightlines at sharp corners so single-target towers melt lead targets."
+              "detail": "Stack overlapping coverage on inner U-turn corners to maximize target contact time."
             },
             {
               "label": "Economy",
-              "detail": "Maximize passive money producers across waves 3 through 12 to fund late-stage Titans."
+              "detail": "Keep only lethal track damage early, then funnel excess cash into income scaling by wave 15."
             },
             {
               "label": "Targeting",
-              "detail": "Toggle boss killers to Strongest and high-speed snipers to First to stop leak runners."
+              "detail": "Set boss killers to Strongest and rapid snipers to First to stop leaking runners."
             },
             {
               "label": "Upgrades",
-              "detail": "Focus coins on hitting critical breakpoint tiers instead of evenly spreading low levels."
+              "detail": "Buy upgrade breakpoints that spike DPS instead of spreading levels across weak towers."
             }
           ]
         },
@@ -346,20 +357,20 @@
           "displayType": "card-list",
           "highlights": [
             {
-              "label": "Showcase",
-              "detail": "Watch Upgraded Titan Cameraman gameplay demos highlighting max tier DPS bursts."
+              "label": "Solo",
+              "detail": "Solo clear breakdowns showing economy pacing and loadouts for hard mode runs."
             },
             {
-              "label": "SoloRun",
-              "detail": "Step-by-step video breakdowns illustrating flawless solo map clears on hard difficulties."
-            },
-            {
-              "label": "TierRank",
-              "detail": "Visual unit tier list breakdowns comparing attack speed, damage radius, and coin cost."
+              "label": "Tiers",
+              "detail": "Unit tier list walkthroughs comparing S-tier titans against budget early picks."
             },
             {
               "label": "Endless",
-              "detail": "High-wave endurance streams demonstrating optimal late-game support aura overlaps."
+              "detail": "Endless mode runs demonstrating late-game support auras and splash overlap."
+            },
+            {
+              "label": "Modes",
+              "detail": "Insane and hard mode footage covering boss counters and chokepoint placement."
             }
           ]
         }
@@ -371,23 +382,23 @@
       "items": [
         {
           "question": "What is Soon Cameraman Tower Defense?",
-          "answer": "Soon Cameraman Tower Defense is a free-to-play Roblox strategy game where commanders assemble teams of camera-headed fighters, position towers at strategic track chokepoints, and repel waves of mechanized adversaries across multiple difficulty modes."
+          "answer": "Soon Cameraman Tower Defense is a Roblox tower defense game where you place camera-headed defenders along enemy paths, collect and upgrade a roster of cameraman units, and defend your base against escalating enemy waves."
         },
         {
           "question": "How do I redeem Soon Cameraman Tower Defense codes?",
-          "answer": "Launch Soon Cameraman Tower Defense on Roblox, open the lobby interface, click on the Codes or Rewards icon, enter your valid promotional code into the dialogue box, and claim your free coins, gems, and booster items."
+          "answer": "Open Soon Cameraman Tower Defense in Roblox, launch into the lobby, tap the Codes or Rewards icon, paste your code exactly as written, and submit it to receive gems, coins, luck potions, or reroll tokens."
         },
         {
-          "question": "What are the best units in Soon Cameraman Tower Defense?",
-          "answer": "Top-performing units in Soon Cameraman Tower Defense include the Upgraded Titan Cameraman for devastating frontline area-of-effect damage, Scientist Cameraman for wave income generation, and Ninja Cameraman for rapid early-game swarm clearing."
+          "question": "Which units are the best in Soon Cameraman Tower Defense?",
+          "answer": "Upgraded Titan Cameraman and Scientist Cameraman define the S-tier of Soon Cameraman Tower Defense, while Ninja Cameraman and Mech Cameraman are reliable A-tier picks for fast runners and clumped swarms."
         },
         {
-          "question": "How can I survive higher waves in Soon Cameraman Tower Defense?",
-          "answer": "To survive difficult waves in Soon Cameraman Tower Defense, prioritize establishing income units within early rounds, position slowing support towers at key track hairpin bends, and upgrade heavy Titan units before high-health boss waves arrive."
+          "question": "How do I survive later waves in Soon Cameraman Tower Defense?",
+          "answer": "In Soon Cameraman Tower Defense, build income early, place slowing support on inner track bends, and upgrade your heavy Titan units before armored boss waves arrive."
         },
         {
-          "question": "Does Soon Cameraman Tower Defense have endless or multiplayer modes?",
-          "answer": "Yes, Soon Cameraman Tower Defense features cooperative team play, solo challenge formats, and an Endless Mode where squads test defensive synergies against infinitely scaling enemy waves for leaderboard rankings."
+          "question": "Does Soon Cameraman Tower Defense have solo and endless modes?",
+          "answer": "Yes, Soon Cameraman Tower Defense supports solo clears and co-op teams, and its Endless Mode keeps scaling enemy waves for players chasing high leaderboard runs."
         }
       ]
     },
